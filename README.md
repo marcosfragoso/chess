@@ -1,2 +1,2 @@
 # chess
-Chess game design using object orientation.
+Jogo de xadrez utilizando orientação à objetos com linguagem Java.
